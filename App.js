@@ -21,6 +21,7 @@ function MyHomeStack() {
       screenOptions={{
         headerStyle: { backgroundColor: 'tomato' },
         headerBackTitle: '返回',
+        headerTitleAlign: "center",
         headerTintColor: 'white'
       }}
     >
@@ -38,6 +39,7 @@ function MyHotelsStack() {
       screenOptions={{
         headerStyle: { backgroundColor: 'tomato' },
         headerBackTitle: '返回2',
+        headerTitleAlign: "center",
         headerTintColor: 'white'
       }}
     >
